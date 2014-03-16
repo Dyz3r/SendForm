@@ -1,0 +1,10 @@
+Credentials: name9246,passwd1950
+Credentials: name7503,passwd832
+Credentials: name2001,passwd9740
+Credentials: name6003,passwd3706
+Credentials: name6752,passwd1108
+Credentials: name5052,passwd2798
+Credentials: name7201,passwd9193
+Credentials: name138,passwd7585
+Credentials: name6173,passwd2968
+Credentials: name8107,passwd5866

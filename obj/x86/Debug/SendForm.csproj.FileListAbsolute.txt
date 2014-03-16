@@ -1,0 +1,8 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\SendForm.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\SendForm.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\SendForm.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\SendForm.pdb
+C:\Users\Alex\documents\visual studio 2010\Projects\SendForm\SendForm\obj\x86\Debug\SendForm.exe
+C:\Users\Alex\documents\visual studio 2010\Projects\SendForm\SendForm\obj\x86\Debug\SendForm.pdb
+C:\Users\Alex\documents\visual studio 2010\Projects\SendForm\SendForm\bin\Debug\SendForm.exe
+C:\Users\Alex\documents\visual studio 2010\Projects\SendForm\SendForm\bin\Debug\SendForm.pdb
